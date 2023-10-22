@@ -1,4 +1,5 @@
 Short Course website: https://code4mdm.github.io/
+Short Course Slack site: https://app.slack.com/client/T06051G0T34/dms
 
 #To make a folder in Github online, type the folder name with a backslash ('/'), then a file name
 #If you don't put a file name after the folder name, the folder name won't display
